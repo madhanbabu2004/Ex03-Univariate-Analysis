@@ -1,4 +1,15 @@
-# Ex03-Univariate-Analysis
+## Univariate-Analysis
+## Aim
+To write a python program to implement Univariate analysis and predict the output.
+
+## Equipment’s required:
+Hardware – PCs
+Anaconda – Python 3.7 Installation / Moodle-Code Runner
+Algorithm:
+## step1
+import the file if colab and start programming
+
+## PROGRAM
 ## code
 ```
 import pandas as pd
